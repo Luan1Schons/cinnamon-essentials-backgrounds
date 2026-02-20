@@ -54,4 +54,4 @@ cinnamon-xlet-makepot essentials-backgrounds@luanschons --install
 
 ## 📝 License
 
-MIT License — © 2026 [Luan Schons Griebler](https://github.com/Luan1Schons)
+GNU General Public License v3.0 — © 2026 [Luan Schons Griebler](https://github.com/Luan1Schons)
